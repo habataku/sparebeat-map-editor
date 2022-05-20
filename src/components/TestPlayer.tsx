@@ -31,7 +31,7 @@ export const TestPlayer = () => {
                     id="sparebeat"
                     width="960"
                     height="640"
-                    src="https://sparebeat.com/embed/"
+                    src="https://olo.0l0.workers.dev/https/sparebeat.com/embed/"
                     frameBorder="0"
                 />
             </TestPlayerWrapper>
