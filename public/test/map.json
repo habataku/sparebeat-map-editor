@@ -1,0 +1,16 @@
+{
+	"title": "IPANEMA",
+	"artist": "Meme",
+	"bpm": "177",
+	"startTime": 361,
+	"level": {
+		"easy": "3",
+		"normal": "23",
+		"hard": "111"
+	},
+	"map": {
+		"easy": [],
+		"normal": [],
+		"hard": []
+	}
+}
