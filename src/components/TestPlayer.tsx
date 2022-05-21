@@ -21,6 +21,7 @@ export const TestPlayer = () => {
             window.btoa(unescape(encodeURIComponent(JSON.stringify(mapJson))))
         }`;
         Sparebeat.load(dataUrl, music.src);
+        document.getElementById('sparebeat').height = window.outerWidth < 960 ? 1280 : 640;
     }, [mapJson]);
 
     return (
